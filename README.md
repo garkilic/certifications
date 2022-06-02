@@ -1,2 +1,7 @@
-# certifications
-History of certifications completed
+# Certifications
+
+Development:
+
+
+
+Product Management:
