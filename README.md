@@ -4,6 +4,7 @@ Software Development:
 
 - The Frontend Developer Career Path - Scrimba 
 - SQL Essential Training - LinkedIn
+- Unity Essentials - Unity
 
 
 Product Management:
